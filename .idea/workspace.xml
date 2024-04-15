@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6b0200-0cce-4f0c-a8c8-12533d34b6f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ABS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Error handling example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For loop example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyperclip example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomNR example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Run fom commandline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elif example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if else example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mapit.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mapit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own function example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
