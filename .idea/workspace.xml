@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6b0200-0cce-4f0c-a8c8-12533d34b6f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI Keyboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI Mouse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI Mouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI Mouse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     "Python.For loop example.executor": "Run",
     "Python.GUI Image.executor": "Run",
     "Python.GUI Keyboard.executor": "Run",
+    "Python.GUI Mouse.executor": "Run",
     "Python.GUI.executor": "Run",
     "Python.NumberGame.executor": "Run",
     "Python.PDF.executor": "Run",

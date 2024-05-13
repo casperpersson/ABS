@@ -13,3 +13,4 @@ while distance > 0:
     distance = distance - 25
     print(0, -distance)
     pyautogui.dragRel(0, -distance, duration=0.1)
+
